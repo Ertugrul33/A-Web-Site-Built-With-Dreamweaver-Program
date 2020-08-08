@@ -1,0 +1,205 @@
+ATTACKERS
+
+SLEDGE
+
+Sledge,elinde balyozu olan bir abimiz.Bu karakter ile heryeri kolayca kýrabiliyorsunuz.
+
+Eðer hýzlýca bir yerleri kýrýp takýmýnýza yol açmak istiyorsanýz Sledge karakterini sizlere öneririm.
+
+THERMITE
+
+Thermite karakteri ile normalde kýrýlamayan (reinforce) duvarlarý kýrabiliyorsunuz.
+
+Kýracaðýnýz duvara sadece karakterde bulunan patlayýcýyý döþeyip aktif etmeniz yetiyor.
+
+Ani atak ve baskýnlarda beklenmedik baþarýlar elde edebiliyorsunuz
+
+ASH
+
+Ash karakterinin bayan olmasý sizi yanýltmasýn.Kendisi özel silahý ile çok güçlü bir saldýrý askeri oluyor
+
+Duvarlara attýgý matkap türü bir top ile duvarý çatlatýp yýkabiliyor.
+
+Uzaktan hasar vermek istiyorsanýz bu karakteri kullanabilirsiniz.
+
+THATCHER
+
+Thatcher karakterimiz oldukça önemli bir karakter
+
+Düþmanlarýn kurmuþ olduðu tuzak veya düzenekleri yokedebiliyor
+
+Bunun için özel bombasýný kullanýyor
+
+TWITCH
+
+Twitch karakterimiz oldukça tehlikeli bir özelliðe sahip.
+
+Bu karakter özel bir drone ile yani kameralý hareketli aracý ile düþmaný þoklayabiliyor
+
+Bu sayede takým arkadaþlarýna baya yardýmcý olduðunu görüyoruz.
+
+MONTAGNE
+
+Montagne karakterimiz aðýr kalkanlý bir abimiz.
+
+Bu karakter özel yeteneði sayesinde boydan boya kendisin kalkan ile koruyabiliyor
+
+Bu sayede takým arkadaþlarýna öncülük ediyor.
+
+BLITZ
+
+Blitz karakterimizde aynen Montagne gibi kalkana sahip ver armoru yüksek
+
+Bu karakterin kalkanýnda flash dediðimiz düþmanlarý kör eden bir özelliði var
+
+Bu sayede düþmanlarý kör edip ani ataklar ile kolayca ilerleyebiliyorsunuz.
+
+GLAZ
+
+Glaz karakteri bildiðiniz keskin niþancý
+
+Bu karakter ile uzaktan etkili hasarlar yapabilirsiniz.
+
+Özellikle dýþarda ev,ofis,depo içerisini görebileceðiniz birçok nokta var
+
+Bu sayede düþmanlarý pencereden kolayca vurabilirsiniz.
+
+FUZE
+
+Fuze karakteri etkili bir karakter fakat kullanýrken dikkatli olmak lazým
+
+Duvara yerleþtirdiði alet ile duvar arkasýna seri þekilde patlayýcýlar atýyor
+
+Düþmanlara çok hasar verebileceðiniz gibi özellikle hostage (rehine) bölümlerinde
+
+dikkat etmenizde fayda var.
+
+IQ
+
+IQ karakterimiz de oldukça takým için yararlý
+
+Bu karakter ile düþmanlarýn gizlice yerleþtirmiþ olduðu
+
+bomba,patlayýcý ve tuzaklarý görebiliyorsunuz.
+
+DEFENDERS
+
+SMOKE
+
+Smoke karaketirimiz adý üstünde bombalarda usta bir eleman
+
+Sis bombasý ve zehirli gaz bomba atarak karþý takýmý yani düþmaný
+
+yavaþlatýp hatta zehirli gaz bombasý ile düþmanlarý öldürebiliyor.
+
+MUTE
+
+Mute karakterimiz ile düþman takýmýnýn elektronik cihazlarýný etkisiz
+
+hale getirebiliyoruz.Yere koyabildiðimiz jammer (sinyal kesici) cihaz düþman tarafýndan patlatýlmaz
+
+ise oldukça iþe yarýyor.
+
+CASTLE
+
+Castle karakterimiz bildiðimiz duvar görevi görüyor.Kapý ve pencerelere
+
+normal barikatlardan ziyade daha güçlülerini takabiliyor.
+
+Bu sayede takým arkadaþlarýnýzý oldukça iyi koruyorsunuz.
+
+PULSE
+
+Pulse karakteri sadece kendisine özel olan ýsý sensörlü cihazý ile
+
+belli mesafedeki düþmanlarý gösteriyor.Düþmanlar beyaz bir alan içinde beliriyor.
+
+Düþmanlarý gördüðünüz anda takým arkadaþlarýnýza söylemeyi unutmayýn.
+
+ROOK
+
+Rook karakterimiz armoru yüksek bir dayýmýz.
+
+Bu karakterimizin özelliði yere takým arkadaþlarýnýz ve kendiniz için çelik yelek (armor) koyabiliyorsunuz
+
+5 adet armoru yere koyduktan sonra takýmýnýza söylemeyi unutmayýn.Almayý unutanlar çok oluyor.
+
+DOC
+
+Doc,adý üstünde doktor.Bu karakter ile takým arkadaþlarýnýzý
+
+yüksek hasar gördüðünde ve ölmek üzereyken canlandýrabiliyorsunuz.
+
+Kendisine ait özel bir iðnesi bulunuyor.
+
+KAPKAN
+
+Kapkan karakteri tuzak kurmada usta bir karakter
+
+Bu karakter ile kapý ve pencerelere tuzaklar kurup düþmanlarýn
+
+bu tuzaklara düþmesini bekleyebilirsiniz.
+
+TACHANKA
+
+Tachanka,üzerinde taþýdýðý aðýr taramalý silah düzeneðini
+
+yere kurup düþmanlarýna cehennemi yaþatan bir karakter.
+
+JAGER
+
+Jager,duvarlara kurduðu bir alet ile düþman bombalarýný daha
+
+patlamadan etkisiz hale getirebiliyor.Takým için oldukça iþe yarar bir
+
+karakter olduðu kesin.
+
+BANDIT
+
+Bandit karakterimiz ile yerlere elektrik döþeyerek düþmanlarý
+
+þok edebiliyoruz.Kimi için gereksiz bir karakter gibi gözüksede iyi oynayanlar bu karakterden
+
+bol ekmek yemekte söyleyim.
+
+OYUNA YENÝ GELEN KARAKTERLER
+
+2 ÞUBAT 2016(SEASON PASS)
+9 ÞUBAT 2016(PC)
+
+BUCK
+
+Bir hücum karakteri olan Buck'ýn en önemli özelliði, 
+ana silahýnýn altýnda pompalý tüfek aparatý bulunmasý. 
+Bu sayede tek bir tüfekle hem etrafý tarayabilecek, hem de yakýn mesafeden 
+öldürücü vuruþlar yapabilecek olan Buck'ýn oyundaki dengeleri nasýl deðiþtireceðini merak ediyoruz.
+
+FROST
+
+Bir savunma karakteri olan Frost'un en önemli özelliði, 
+ayý kapanýna benzer bir tuzaða sahip olmasý ve bu sayede düþmanlarý bir anda etkisiz hale getirebilmesi.
+Muhtemelen bu tuzaktan kurtulmak biraz zaman alacak ve bu sýrada 
+düþmaný kolayca vurup öldürme ihtimali bir hayli yüksek.
+
+9 MAYIS 2016(SEASON PASS)
+16 MAYIS 2016(PC)
+
+BLACKBEARD
+
+Adý üstünde kara sakal ve aðýrlýðý ile ön plana çýkacak olan bu operatör ise 
+Attack (Saldýrý) ekibine dahil oluyor.
+Silahýnýn namlusunun iki yanýnda kalkana sahip olan bu operatör ise ince noktalardan 
+vurmak için tasarlanmýþ. Böyle bir özelliðe sahip olmasý kendisini saldýrý 
+ekibinin en önde gidecek olan operatörlerden biri haline getiriyor. 
+Ayrýca kendisinin kullandýðý bu Rifle sýnýf silahýn dýþýnda birde Desert Eagle tabancaya sahip.
+
+VALKYRIE
+
+Bu operatörlerden ilki Valkyrie isimli kadýn karakter ve kendisi Defender (Savunma) 
+operatörlerine ekleniyor. SPAS-12 Pompalý silahý olan ve karizmanýn dibine vurmuþ 
+olan bu ablamýzýn özel yeteneði ise savunma sýnýfýnda olduðu halde yapýþkan kameralara sahip olmasý. 
+Bu yapýþkan kameralarý kullanarak rakiplerin tüm stratejilerini ve saldýrý ekibinin 
+bütün morallerini alt üst etmek için geliyor. 
+Bu kameralar herhangi bir yüzeye, herhangi bir yere yapýþtýrýlabiliyor olacak ve 
+bu kameralara savunma ekibi yani takým arkadaþlarý da eriþebilecek. 
+En önemlisi ise bu kameralar binanýn dýþýna da yapýþtýrýlabiliyor.

@@ -1,0 +1,20 @@
+#kapsayici #banner {
+	height: 300px;
+	width: 1000px;
+}
+#kapsayici {
+	width: 1000px;
+	margin:auto;
+}
+#kapsayici #ustmenu {
+	height: 38px;
+	width: 1000px;
+}
+#kapsayici #icerik {
+	height: 8000px;
+	width: 1000px;
+	color: #FFF;
+	background-color: #000;
+	text-align: center;
+	vertical-align: middle;
+}
